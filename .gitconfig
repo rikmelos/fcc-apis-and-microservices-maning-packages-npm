@@ -1,2 +1,3 @@
-[core]
-	excludesfile = /etc/.gitignore-global
+[udemy]
+    name = rikmelos
+    email = rikmelos@gmail.com
